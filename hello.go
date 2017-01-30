@@ -11,4 +11,6 @@ func main() {
   fmt.Println("Heisann")
   fmt.Println("Morn")
   fmt.Println("Wubba dubba dub duub!!")
+  fmt.Println("hallais")
+
 }
