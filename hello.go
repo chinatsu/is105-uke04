@@ -10,4 +10,6 @@ func main() {
   fmt.Println("Bonjour")
   fmt.Println("Heisann")
   fmt.Println("Morn")
+  fmt.Println("hallais")
+  
 }
