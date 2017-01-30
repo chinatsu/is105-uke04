@@ -1,10 +1,6 @@
 # is105-uke04
 Eksempelarbeid med git
 
-Ressurser brukt: 
-
-[strings.Join()](https://gobyexample.com/string-functions)
-
-[Command-Line Arguments](https://gobyexample.com/command-line-arguments)
-
-[String Formatting](https://gobyexample.com/string-formatting)
+`log` gir ut en verdi regnet ut av log2 av en hardkodet verdi.
+`logcli` gir ut en verdi regnet ut av log2 av en verdi gitt fra kommandolinjen.
+`logbcli` gjør det samme som logcli, men regner ut en log med definert base og verdi fra kommandolinjen. 
